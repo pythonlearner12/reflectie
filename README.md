@@ -1,7 +1,3 @@
-# reflectie
-
-
-
 ![](https://pngimg.com/uploads/mario/mario_PNG116.png)
 
 ### Wat heb ik nieuw geleerd met deze lessen:
