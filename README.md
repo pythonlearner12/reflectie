@@ -38,7 +38,7 @@
 - eigenlijk niks
 
 ### Wat zou ik nog meer willen weten:
-- meer over merges
+- meer over formateren in github
 
 
 # test1
